@@ -27,6 +27,6 @@ var styles = StyleSheet.create({
 });
 
 AppRegistry.registerComponent(
-    "pudim_react_native",
+    "reactnative-app",
     () => HelloWorld
 )
