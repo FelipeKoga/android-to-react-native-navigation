@@ -1,7 +1,7 @@
 {
   "name": "pocnativeappintegrations",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "reactnative-app/index.js",
   "repository": "git@github.com:FelipeKoga/poc-native-app-integrations.git",
   "author": "koga <kosloski.fkoga@gmail.com>",
   "license": "MIT",

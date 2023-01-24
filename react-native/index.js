@@ -27,6 +27,6 @@ var styles = StyleSheet.create({
 });
 
 AppRegistry.registerComponent(
-    "reactnative-app",
+    "react-native",
     () => HelloWorld
 )
