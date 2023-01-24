@@ -1,4 +1,4 @@
-package com.example.poc_native_app_integrations
+package com.koga.poc_native_app_integrations
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.poc_native_app_integrations", appContext.packageName)
+        assertEquals("com.koga.poc_native_app_integrations", appContext.packageName)
     }
 }

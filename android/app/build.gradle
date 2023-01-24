@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.poc_native_app_integrations'
+    namespace 'com.koga.poc_native_app_integrations'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.poc_native_app_integrations"
+        applicationId "com.koga.poc_native_app_integrations"
         minSdk 24
         targetSdk 33
         versionCode 1

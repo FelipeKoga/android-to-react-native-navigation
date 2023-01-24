@@ -1,4 +1,4 @@
-package com.example.poc_native_app_integrations.ui.theme
+package com.koga.poc_native_app_integrations.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

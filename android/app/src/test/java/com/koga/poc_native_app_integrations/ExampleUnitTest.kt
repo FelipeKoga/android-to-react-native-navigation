@@ -1,4 +1,4 @@
-package com.example.poc_native_app_integrations
+package com.koga.poc_native_app_integrations
 
 import org.junit.Test
 
