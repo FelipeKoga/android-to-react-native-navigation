@@ -12,7 +12,7 @@ import java.util.*
 
 
 object ReactNativeAppLoader {
-    const val IDENTIFIER = "reactnative-app"
+    const val IDENTIFIER = "react-native"
     private val CACHE: MutableMap<String, ReactRootView?> = WeakHashMap()
 
     fun preLoad(context: Context, componentName: String) {
