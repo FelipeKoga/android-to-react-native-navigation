@@ -4,5 +4,13 @@
   "main": "index.js",
   "repository": "git@github.com:FelipeKoga/poc-native-app-integrations.git",
   "author": "koga <kosloski.fkoga@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn react-native start"
+  },
+  "dependencies": {
+    "@types/react": "^18.0.26",
+    "react": "18.1.0",
+    "react-native": "^0.71.0"
+  }
 }
